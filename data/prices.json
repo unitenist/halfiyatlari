@@ -1,0 +1,212 @@
+[
+  {
+    "bölge": "Gazipaşa",
+    "tür": "YERLİ MUZ",
+    "fiyat": "₺46,00",
+    "sütun3": "",
+    "sütun4": "KG"
+  },
+  {
+    "bölge": "İstanbul",
+    "tür": "Çilek II.",
+    "fiyat": "70,00 TL - 90,00 TL",
+    "sütun3": "Kilogram",
+    "sütun4": ""
+  },
+  {
+    "bölge": "İstanbul",
+    "tür": "Çilek(I.)",
+    "fiyat": "100,00 TL - 150,00 TL",
+    "sütun3": "Kilogram",
+    "sütun4": ""
+  },
+  {
+    "bölge": "İstanbul",
+    "tür": "Muz (Yerli)",
+    "fiyat": "65,00 TL - 75,00 TL",
+    "sütun3": "Kilogram",
+    "sütun4": ""
+  },
+  {
+    "bölge": "İstanbul",
+    "tür": "Muz(Yerli II.)",
+    "fiyat": "35,00 TL - 45,00 TL",
+    "sütun3": "Kilogram",
+    "sütun4": ""
+  },
+  {
+    "bölge": "Antalya",
+    "tür": "Altınçilek(gooseberry)",
+    "fiyat": "40 ₺",
+    "sütun3": "70 ₺",
+    "sütun4": "Pk/125 G"
+  },
+  {
+    "bölge": "Antalya",
+    "tür": "Avokado",
+    "fiyat": "30 ₺",
+    "sütun3": "60 ₺",
+    "sütun4": "Adet"
+  },
+  {
+    "bölge": "Antalya",
+    "tür": "Çilek",
+    "fiyat": "100 ₺",
+    "sütun3": "140 ₺",
+    "sütun4": "Kg"
+  },
+  {
+    "bölge": "Antalya",
+    "tür": "Muz (Yerli)",
+    "fiyat": "40 ₺",
+    "sütun3": "70 ₺",
+    "sütun4": "Kg"
+  },
+  {
+    "bölge": "Antalya",
+    "tür": "Muz İthal (1 Kg)",
+    "fiyat": "68 ₺",
+    "sütun3": "111 ₺",
+    "sütun4": "Kg"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "AVOKADO",
+    "fiyat": "56.25 TL",
+    "sütun3": "43,34 TL",
+    "sütun4": "ADET"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "AVOKADO",
+    "fiyat": "63.33 TL",
+    "sütun3": "56,2 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "ÇİLEK",
+    "fiyat": "130 TL",
+    "sütun3": "54,61 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "ÇİLEK",
+    "fiyat": "132 TL",
+    "sütun3": "64,02 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "90 TL",
+    "sütun3": "58,6 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "89 TL",
+    "sütun3": "78,24 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "72.5 TL",
+    "sütun3": "29,28 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "97.37 TL",
+    "sütun3": "62,74 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "35.4 TL",
+    "sütun3": "25,47 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "ÇİLEK",
+    "fiyat": "105 TL",
+    "sütun3": "90,31 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "60 TL",
+    "sütun3": "57,59 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "60 TL",
+    "sütun3": "49,84 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "ÇİLEK",
+    "fiyat": "55.2 TL",
+    "sütun3": "48,02 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "80 TL",
+    "sütun3": "80 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "12 TL",
+    "sütun3": "12 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "ÇİLEK",
+    "fiyat": "101 TL",
+    "sütun3": "84,07 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "70.5 TL",
+    "sütun3": "50,43 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "ÇİLEK",
+    "fiyat": "120 TL",
+    "sütun3": "114,54 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "22 TL",
+    "sütun3": "17,2 TL",
+    "sütun4": "KİLOGRAM"
+  },
+  {
+    "bölge": "Mersin",
+    "tür": "MUZ",
+    "fiyat": "45 TL",
+    "sütun3": "34,72 TL",
+    "sütun4": "KİLOGRAM"
+  }
+]
