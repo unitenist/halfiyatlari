@@ -88,8 +88,8 @@ async function updateAllPrices() {
 app.get('/api/fiyatlar', async (req, res) => {
     try {
         const { bolge, tür } = req.query;
-        let prices = await readPricesData();
-        
+        let prices = await scrapers.getAllPrices(); // Scraper'dan verileri çek
+
         // Filtreleme işlemi
         if (bolge) {
             prices = prices.filter(item => 
@@ -107,6 +107,9 @@ app.get('/api/fiyatlar', async (req, res) => {
         res.status(500).json({ error: 'Sunucu hatası' });
     }
 });
+
+// 📌 Vercel için özel export (app.listen kullanma!)
+module.exports = app;
 
 // Uygulama başlangıcında verileri güncelle
 (async () => {
